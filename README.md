@@ -1,4 +1,4 @@
-#Project Description: Shopping System
+##Project Description: Shopping System
 
 The Shopping System is a web-based application designed to facilitate shopping activities for users and provide administrative capabilities for managing products. The system allows users to log in as either a regular user or an administrator. New users have the option to create an account, and existing users can reset their passwords if they forget them.
 
